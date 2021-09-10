@@ -1,4 +1,4 @@
-package com.hrworker.entities;
+package com.devsuperior.hrworker.entities;
 
 import java.io.Serializable;
 
@@ -77,5 +77,4 @@ public class Worker implements Serializable {
 			return false;
 		return true;
 	}
-
 }
